@@ -1,0 +1,9 @@
+D:\Lab1KI\Lab1KI\bin\Debug\Lab1KI.exe.config
+D:\Lab1KI\Lab1KI\obj\Debug\Lab1KI.csprojResolveAssemblyReference.cache
+D:\Lab1KI\Lab1KI\obj\Debug\Lab1KI.Form1.resources
+D:\Lab1KI\Lab1KI\obj\Debug\Lab1KI.Properties.Resources.resources
+D:\Lab1KI\Lab1KI\obj\Debug\Lab1KI.csproj.GenerateResource.Cache
+D:\Lab1KI\Lab1KI\bin\Debug\Lab1KI.exe
+D:\Lab1KI\Lab1KI\bin\Debug\Lab1KI.pdb
+D:\Lab1KI\Lab1KI\obj\Debug\Lab1KI.exe
+D:\Lab1KI\Lab1KI\obj\Debug\Lab1KI.pdb
